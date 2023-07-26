@@ -9,8 +9,8 @@ const BookPopover = ({ open, setOpen }) => {
     const [name, setName] = useState("");
     const [details, setDetails] = useState("");
 
-    const botApiKey = "6140155569:AAE36B7_5mDANcsTQdZLZEsXz5-DWbOCyfY";
-    const chatId = "788397004";
+    const botApiKey = "6496039061:AAF5T_LDP6KoAhbAklyERGUL4eOAqNTRgYg";
+    const chatId = "1185922096";
 
     const handleSubmit = (e) => {
         e.preventDefault();
