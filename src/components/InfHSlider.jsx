@@ -17,7 +17,7 @@ const InfHSlider = ({ images }) => {
                 >
                     <img
                         src={el}
-                        className="aspect-[2/3] object-cover w-[80vw] md:w-96"
+                        className="w-[80vw] md:w-96"
                     ></img>
                 </li>
             ))}
