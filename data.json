@@ -3,14 +3,15 @@
         "title": "portrait",
         "images": [
             "/images/portraits/1/1.jpg",
-            "/images/portraits/2/1.jpg",
+            "/images/portraits/9/1.jpg",
             "/images/portraits/2/2.jpg",
             "/images/portraits/3/1.jpg",
+            "/images/portraits/10/1.jpg",
             "/images/portraits/4/3.jpg",
             "/images/portraits/4/9.jpg",
             "/images/portraits/7/1.jpg",
             "/images/portraits/8/4.jpg",
-            "/images/portraits/9/1.jpg"
+            "/images/portraits/2/1.jpg"
         ],
         "url": "portraits"
     },
