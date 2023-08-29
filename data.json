@@ -19,12 +19,12 @@
         "title": "street",
         "images": [
             "/images/street/1/1.jpg",
+            "/images/street/7/1.jpg",
             "/images/street/2/1.jpg",
             "/images/street/3/1.jpg",
             "/images/street/4/1.jpg",
-            "/images/street/8/1.jpg",
-            "/images/street/2/2.jpg",
-            "/images/street/1/1.jpg"
+            "/images/street/11/1.jpg",
+            "/images/street/8/1.jpg"
         ],
         "url": "street"
     },
