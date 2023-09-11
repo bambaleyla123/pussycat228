@@ -1,11 +1,11 @@
 {
     "portraits": { 
         "title": "Portraits", 
-        "images": [8, 9, 9, 10, 7, 3, 8, 5, 12, 9]
+        "images": [8, 9, 9, 10, 7, 11, 3, 8, 5, 12, 9]
     },
     "street": { 
         "title": "Street", 
-        "images": [11, 6, 3, 4, 3, 3, 6, 7, 4, 4, 6, 5, 5]
+        "images": [11, 6, 3, 4, 3, 3, 6, 7, 5, 4, 4, 6, 5, 5]
     },
     "still-life": { 
         "title": "Still life", 
