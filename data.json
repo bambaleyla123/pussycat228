@@ -4,13 +4,13 @@
         "images": [
             "/images/portraits/1/1.jpg",
             "/images/portraits/2/2.jpg",
+            "/images/portraits/5/1.jpg",
             "/images/portraits/4/3.jpg",
-            "/images/portraits/11/3.jpg",
+            "/images/portraits/13/3.jpg",
             "/images/portraits/3/1.jpg",
-            "/images/portraits/6/3.jpg",
-            "/images/portraits/8/1.jpg",
-            "/images/portraits/10/1.jpg",
-            "/images/portraits/12/1.jpg",
+            "/images/portraits/7/3.jpg",
+            "/images/portraits/9/1.jpg",
+            "/images/portraits/14/1.jpg",
             "/images/portraits/2/1.jpg"
         ],
         "url": "portraits"
@@ -21,9 +21,11 @@
             "/images/street/1/1.jpg",
             "/images/street/7/1.jpg",
             "/images/street/2/1.jpg",
+            "/images/street/13/1.jpg",
             "/images/street/3/1.jpg",
             "/images/street/4/1.jpg",
-            "/images/street/11/1.jpg",
+            "/images/street/12/1.jpg",
+            "/images/street/16/1.jpg",
             "/images/street/8/1.jpg"
         ],
         "url": "street"
@@ -31,13 +33,14 @@
     {
         "title": "still life",
         "images": [
+            "/images/still-life/2/1.jpg",
             "/images/still-life/1/1.jpg",
-            "/images/still-life/2/2.jpg",
-            "/images/still-life/3/1.jpg",
             "/images/still-life/3/2.jpg",
             "/images/still-life/4/1.jpg",
             "/images/still-life/4/2.jpg",
-            "/images/still-life/1/2.jpg"
+            "/images/still-life/5/1.jpg",
+            "/images/still-life/5/2.jpg",
+            "/images/still-life/2/2.jpg"
         ],
         "url": "still-life"
     },
