@@ -19,7 +19,7 @@ const Landing = () => {
                     <div className="max-md:w-[10%] w-1/6 h-[75vh] bg-secondary relative">
                         <Fade left>
                             <p
-                                className="font-primary text-white text-xl lg:text-3xl absolute bottom-1/2 translate-y-1/2 right-2  md:right-10 !rotate-180"
+                                className="font-primary text-white text-xl lg:text-3xl absolute bottom-1/2 translate-y-1/2 right-2  md:right-15 !rotate-180"
                                 style={{
                                     "writing-mode": "vertical-rl",
                                 }}
