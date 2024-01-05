@@ -51,7 +51,7 @@ const Footer = () => {
                     <br />
                     Instagram:{" "}
                     <a
-                        href="https://www.instagram.com/photosem.jpg/"
+                        href="https://www.instagram.com/hairyguywithacamera?igsh=czl4bGo4eTBlbnZj&utm_source=qr"
                         target="_blank"
                         className="hover:underline"
                     >
