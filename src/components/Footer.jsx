@@ -55,7 +55,7 @@ const Footer = () => {
                         target="_blank"
                         className="hover:underline"
                     >
-                        photosem.jpg
+                        hairyguywithacamera
                     </a>
                 </p>
             </Fade>
